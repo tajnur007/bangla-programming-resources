@@ -604,7 +604,7 @@
 * [বাইটকোড ইন্সট্রুমেন্টেশন (Bytecode instrumentation) এবং এর ব্যবহার](http://software-engineering-notes-in-bangla.blogspot.com/2016/11/bytecode-instrumentation.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [জাভা প্রোগ্রামিং ল্যাংগুয়েজ তৈরির পেছনের গল্প](http://www.bazlur.com/2017/01/blog-post_25.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [প্রোগ্রামিং প্যারাডাইম](http://www.bazlur.com/2017/01/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
-* [Agile and Scrum](http://www.bazlur.com/2017/01/agile-and-scrum.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
+* [Agile and Scrum](https://bazlur.com/posts/2017-01-08-agile-and-scru/) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%AE%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%87%E0%A6%AC%E0%A6%B2-mutable-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%87%E0%A6%AE%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%87%E0%A6%AC%E0%A6%B2-immutable-b1f4d9c9090f) - [আলাভোলা](https://medium.com/@amialavola)
 * [টাইপ সিস্টেম (Type System)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AA-%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%AE-type-system-bd2db56c3a52) - [আলাভোলা](https://medium.com/@amialavola)
@@ -632,6 +632,7 @@
 * [জাভা প্রোগ্রামিং](http://java.howtocode.dev/)- [How-to-code](http://www.howtocode.dev/)
 * [বাংলা জাভা টিউটোরিয়াল](http://mrubel.com/androidlime/category/java/) - [মোশাররফ রুবেল](https://www.facebook.com/rubel007cse)
 * [জাভা এন্টারপ্রাইজ এডিশন](http://dimikcomputing.com/course/javaee-online-course/) - [Therap (BD) Ltd.](www.therapbd.com)
+
 ### সি (C)
 * [বাংলায় সি প্রোগ্রামিং শিক্ষা](http://c.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
 * [বাংলায় সি প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/c) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
@@ -642,6 +643,8 @@
 * [বাংলা সি প্লাস প্লাস প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/cpptutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
 * [সি প্লাস প্লাস টিউটোরিয়াল](http://shoshikkha.com/archives/category/computer-science/programming/language/c) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
+### সি শার্প (C#)
+* [আসুন C# শিখি](https://intisarbnaim.com/bn/categories/%E0%A6%86%E0%A6%B8%E0%A7%81%E0%A6%A8-c-sharp-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BF/) - [ইনতিসার বিন নাইম](https://intisarbnaim.com/bn/)
 
 ### জাভাস্ক্রিপ্ট (Javascript)
 * [জাভাস্ক্রিপ্ট](http://js.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
@@ -716,3 +719,7 @@
 * [Learn with Sumit](https://www.youtube.com/user/sumitanalyzen)
 * [Learn Hunter](https://www.youtube.com/channel/UC7lIh9A3Isi_v0o_bvu5dKQ)
 * [Learn with Hasin Hayder](https://www.youtube.com/channel/UCwkHodC3PikVnMUQ2w-LraA)
+* [রকিবের সাথে 'কৃত্রিম বুদ্ধিমত্তা'](https://www.youtube.com/c/রকিবেরসাথেকৃত্রিমবুদ্ধিমত্তা)
+* [Lecturelia](https://www.youtube.com/c/Lecturelia/featured)
+* [Farhan Hossan](https://www.youtube.com/c/FarhanHossan) 
+* [Foyzul Karim](https://www.youtube.com/c/FoyzulKarim)
