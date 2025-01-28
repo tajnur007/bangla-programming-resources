@@ -34,6 +34,7 @@
     * [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://medium.com/@amialavola)
     * [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://medium.com/@amialavola)
     * [ডাবলি লিংকড লিস্ট](http://shoshikkha.com/archives/3290) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+    * [লিঙ্কড লিস্ট সম্পর্কে ধারণা এবং সি প্রোগ্রামিং এ ইমপ্লিমেন্টেশন](https://jakir.me/%E0%A6%B2%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%A1-%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F-linked-list/) - [জাকির হোসাইন](https://www.facebook.com/jakir007/)
     * [লিঙ্কড লিস্ট - ১ (Linked List - 1) - প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/k3wD1KtP8EE) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [লিঙ্কড লিস্ট - ২ (Linked List - 2) - নোড বাদ দেওয়া (ভিডিও)](https://youtu.be/rBc-CApEe3s) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [লিঙ্কড লিস্ট - ৩ (Linked List - 3) - নোড যোগ করা (ভিডিও)](https://youtu.be/VLd6EnfUuWU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
@@ -637,6 +638,8 @@
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
 
+### আর (R)
+* [R Programming Tutorial: Bangla Course(আর প্রোগ্রামিং টিউটোরিয়াল: বাংলা কোর্স)](https://www.youtube.com/playlist?list=PLurbSF7_tErorQohT-g0Mi3Iluos7dAAW)
 
 ### জাভা (Java)
 * [জাভা প্রোগ্রামিং](http://java.howtocode.dev/)- [How-to-code](http://www.howtocode.dev/)
@@ -661,6 +664,7 @@
 * [বাংলায় জাভাস্ক্রিপ্ট](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me) - [Learn With Zonayed](https://with.zonayed.me/bn)
+* [কোডিং JS](https://nipu.gitbook.io/coding-js) - [কোডিং JS](https://nipu.gitbook.io/coding-js/)
 
 
 ### পিএইচপি (PHP)
@@ -670,10 +674,10 @@
 * [বাংলায় ডার্ট ও ফ্লাটার বেসিক ](https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7) - [রাব্বিল হাসান](https://www.youtube.com/@RabbilHasanRupom)
 
 ### গো-ল্যাং (golang)
-* [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
+- [Vivasoft Go বুটক্যাম্প](https://academy.vivasoftltd.com/golang-bootcamp/)
+- [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
 - [গো নিয়ে গড়াগড়ি](http://go.goragori.com/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 - [Golang কোডিং বুট ক্যাম্প ক্লাস ](https://www.youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - [MASTER-ACADEMY](https://www.youtube.com/c/MASTERACADEMY4)
-
 
 ### ক্লোজার (Clojure)
 * [ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ](https://clojure.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
